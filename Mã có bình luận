@@ -1,0 +1,30 @@
+<!-- TODO: Editor 3: Mã có bình luận
+Yêu cầu: Tạo HTML có ít nhất 3 bình luận: đầu trang, nội dung chính, chân trang.
+Gợi ý: Bình luận ngắn, không thay thế nội dung.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+<!-- Bình luận 1: Khu vực đầu trang -->
+  <header>
+    <h1>Học cách sử dụng Bình luận trong HTML</h1>
+  </header>
+  
+  <!-- Bình luận 2: Khu vực nội dung chính -->
+  <main>
+    <p>Bình luận (comments) trong HTML giúp người lập trình ghi chú lại mã nguồn mà không hiển thị nội dung đó lên giao diện trình duyệt.</p>
+    <p>Cú pháp của bình luận là: <code>&lt;!-- Nội dung bình luận --&gt;</code></p>
+  </main>
+  <!-- Bình luận 3: Khu vực chân trang -->
+  <footer>
+    <p>© 2026 Thực hành HTML căn bản.</p>
+  </footer>
+</body>
+</html>
